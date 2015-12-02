@@ -1,0 +1,29 @@
+EAM - Stimulus Control Application
+Copyright (C) 2007-2015 The EAM authors team.
+
+The EAM authors team is formed by:
+- Drausio Capobianco (main software developer and former programmer)
+- Carlos Rafael F. Picanço (second programmer, planning and documentation)
+- Paulo R. K. Goulart (planning, development advisor and documentation)
+- Tiago S. Larroudé de Man (planning and documentation)
+- Universidade Federal do Pará (physical and institutional support)
+- Universidade Federal de São Carlos (physical and institutional support)
+
+We thanks all the authors that made this software happens,
+from its early development, passing through its midlife surviving,
+until to its current state. 
+
+This file is part of EAM.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.

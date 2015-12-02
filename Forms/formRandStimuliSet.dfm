@@ -58,6 +58,8 @@ object fRandStimuliSet: TfRandStimuliSet
     ExplicitHeight = 396
     object tbGen: TTabSheet
       Caption = 'Gerar'
+      ExplicitLeft = 0
+      ExplicitTop = 0
       ExplicitWidth = 646
       ExplicitHeight = 368
       object rgTrialType: TRadioGroup
@@ -299,6 +301,8 @@ object fRandStimuliSet: TfRandStimuliSet
     object tbShow: TTabSheet
       Caption = 'Editar'
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
       ExplicitWidth = 646
       ExplicitHeight = 368
       object lblBlc: TLabel

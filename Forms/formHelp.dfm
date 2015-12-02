@@ -37,10 +37,14 @@ object fmHelp: TfmHelp
     object tbsht3: TTabSheet
       Caption = 'Introdu'#231#227'o'
       ImageIndex = 2
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object lbl1: TLabel
         Left = 114
         Top = 184
-        Width = 351
+        Width = 354
         Height = 76
         Alignment = taCenter
         Caption = 
@@ -57,10 +61,14 @@ object fmHelp: TfmHelp
     end
     object tbsht1: TTabSheet
       Caption = 'Esquemas Simples'
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object lbl2: TLabel
         Left = 61
         Top = 225
-        Width = 457
+        Width = 460
         Height = 38
         Alignment = taCenter
         Caption = 
@@ -76,7 +84,7 @@ object fmHelp: TfmHelp
       object lbl5: TLabel
         Left = 90
         Top = 89
-        Width = 387
+        Width = 393
         Height = 114
         Alignment = taCenter
         Caption = 
@@ -204,10 +212,14 @@ object fmHelp: TfmHelp
     object tbsht2: TTabSheet
       Caption = 'Valores e Desvios'
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object lbl6: TLabel
         Left = 17
         Top = 260
-        Width = 544
+        Width = 545
         Height = 57
         Alignment = taCenter
         Caption = 
@@ -225,7 +237,7 @@ object fmHelp: TfmHelp
       object lbl3: TLabel
         Left = 19
         Top = 3
-        Width = 456
+        Width = 463
         Height = 57
         Caption = 
           'Os esquemas FI, FR e FT exigem um nome e um valor num'#233'rico.'#13#10'O v' +
@@ -241,7 +253,7 @@ object fmHelp: TfmHelp
       object lbl4: TLabel
         Left = 20
         Top = 108
-        Width = 541
+        Width = 545
         Height = 57
         Alignment = taCenter
         Caption = 
@@ -547,10 +559,14 @@ object fmHelp: TfmHelp
     object tbsht4: TTabSheet
       Caption = 'Esquemas Especiais'
       ImageIndex = 3
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object lbl25: TLabel
         Left = 16
         Top = 18
-        Width = 547
+        Width = 555
         Height = 114
         Alignment = taCenter
         Caption = 
@@ -571,7 +587,7 @@ object fmHelp: TfmHelp
       object lbl22: TLabel
         Left = 40
         Top = 314
-        Width = 483
+        Width = 484
         Height = 38
         Alignment = taCenter
         Caption = 
